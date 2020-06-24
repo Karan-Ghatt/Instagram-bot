@@ -5,10 +5,10 @@ from instapy.util import smart_run
 ## Likes x3 images of posters based on given HASHTAG and relationship bounds. ##
 
 
-insta_username = "rubixmusicprod"
-insta_password = "Niku2020!"
+insta_username = " "
+insta_password = " "
 
-user = 'aarontrinhofficial'
+user = ' '
 
 
 
