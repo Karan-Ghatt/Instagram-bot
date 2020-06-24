@@ -5,10 +5,10 @@ from instapy.util import smart_run
 ## Likes x3 images of posters based on given HASHTAG and relationship bounds. ##
 
 
-insta_username = "rubixmusicprod"
-insta_password = "Niku2020!"
+insta_username = " "
+insta_password = " "
 
-hashtag = 'twitchstreamer'
+hashtag = ' '
 
 comment1 ="Your gameplay is awesome! If you're looking for some custome, royalty free music hit me up!"
 comment2 ='Tired of copywright strike? Check out my profile for some custom, royalty free music!'
