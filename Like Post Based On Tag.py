@@ -40,7 +40,6 @@ with smart_run(session):
                                  peak_server_calls_daily=4700)
     session.set_skip_users(skip_private=True, private_percentage=100)
 
-li
     # actions
 
     session.set_user_interact(amount=4, randomize=False, percentage=100)
